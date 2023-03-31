@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "a project for advance css and sass practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitesh-github143/natours.git"
+  },
+  "author": "Nitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitesh-github143/natours/issues"
+  },
+  "homepage": "https://github.com/nitesh-github143/natours#readme"
+}
